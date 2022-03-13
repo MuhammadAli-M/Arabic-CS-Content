@@ -1,7 +1,17 @@
 # Arabic-CS-Content
 
-## إبراهيم أسامة
-مهتم بالمواضيع الآتية: 
+## م ياسر السيد
+
+- Building Web Application 
+- Containerization
+- System Design 
+- Concurrency
+- Vim
+- Web AuthN & AuthZ
+- Database
+
+https://www.youtube.com/c/pragma-ar
+## م إبراهيم أسامة
 - DevOps
 - Microservices 
 - Open-Source
